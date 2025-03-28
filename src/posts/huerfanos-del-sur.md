@@ -2,7 +2,7 @@
 title: Huérfanos del Sur
 description: Los huérfanos del desarrollo, o llanamente, los países pobres,
   fueron pateados lejos, muy lejos, por el Tío Sam.
-featured: false
+featured: true
 author:
   - Jorge Jaramillo
 date: 2025-03-13T12:22:00.000Z
