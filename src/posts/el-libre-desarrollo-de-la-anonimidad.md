@@ -2,7 +2,7 @@
 title: El libre desarrollo de la anonimidad
 description: Si el internet nos permite portar cualquier identidad, ¿por qué
   insistimos en disfrazarnos de nosotros mismos?
-featured: true
+featured: false
 author:
   - Felipe Moyano
 date: 2025-02-16T21:46:00.000Z
