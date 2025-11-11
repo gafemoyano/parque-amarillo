@@ -8,90 +8,48 @@ author:
 date: 2025-11-11T16:21:00.000+01:00
 cover: /static/img/patita_inage.png
 ---
-> *“(I) Can't change the weather, might not be forever. But if it's forever, it's even better.”*
->
-> *Billie Eilish*
+*“(I) Can't change the weather, might not be forever. But if it's forever, it's even better.”*
 
-
+*Billie Eilish*
 
 “Hay un pequeño pato dando vueltas en este lago y no se va a ir, nunca se va a ir” pensaba uno de los patos mayores harto de un chiquitín que desde que salió del cascarón parecía tener energía inagotable. Aparte del viejo y unos veteranos más, pocos compartían esta sensación; en realidad, el vigor del patito no molestaba a los demás. Por el contrario, tras la llegada del crío, y algunos polluelos más, el ánimo en el lago vivía un renacer. Como es bien sabido, entre más patos haya para volar, mayores serán las posibilidades de sobrevivir la migración.
 
-
-
 El carisma del patito parecía crecer dos veces más rápido que su cuerpo. Antes de haber completado su plumaje, ya era una estrella en el lago. En sus ágiles saltos se presentía un importante planeador, pues aun siendo breves, los mantenía en un decoroso vuelo. Antes de aterrizar, sonriendo, tocaba el agua y en su inocente graznar develaba su corta edad. Mientras se sacudía, sabía que lo observaban y entonces inflaba su pecho pensando en el día en que lideraría la famosa formación en V hacia tierras del sur.
-
- 
 
 Pero no fueron muchos los días en que el patito soñó con ser el líder de los cielos, pues el pobre sufrió una temprana lesión en una de sus alas que le impidió volar muy alto -allí arriba la corriente del viento se hace más fuerte, y sus músculos atrofiados no la resistían-. Incluso se llegó a poner en duda su participación en el viaje. Una noticia terrible porque la bandada solía dejar a su merced a aquellos que no iban a su ritmo y, como es bien sabido, un pato no está hecho para volar solo. Igual, su temprano estrellato lo había blindado con una fuerte personalidad y procuró mantenerse optimista durante los años. Se supo valer de su don de pato y logró que los demás se olvidaran de su discapacidad. Pero no se pudo engañar en las noches, pues las pesadillas del día en que lo dejarían atrás eran cada vez más frecuentes.
 
- 
-
 De manera paulatina el patito decidió aislarse. Asumió una especie de resignación. Sabía que era una figura llamativa dentro de su comunidad y de pronto le empezó a fastidiar que lo buscaran. Se lo achacaba a la edad, mucho se decía de la adolescencia de los patos, pero, en sus soledades, sabía que se trataba de algo más. Se alejó de sus hermanos y primos bajo el pretexto de tener tiempos más largos de reflexión y entendimiento. La verdad es que se alejaba de juegos que cada vez más tenían que ver con el vuelo. Así pues, su fama se transformó en la de un pato sensible e introvertido. Por fortuna para él, nadie relacionó su cambio con la lesión. 
-
- 
 
 Se encontró, entonces, en la libertad de cultivar nuevos intereses. Entre ellos estaba el aprecio innato por la naturaleza: por un tiempo se dedicó a observar las plantas del lago y aprendió a cuidarlas, extendía sus vidas y lograba hacerlas florecer en formas que no se habían visto antes. También hizo suya una recóndita esquina del lago que pocos conocían, pues solo aparecía luego de cruzar una exagerada maleza. El estar aislado había hecho de este lugar uno fértil y rico en flora. En él se encontró más de una vez observando los cetrinos atardeceres, admirando en silencio y en quietud el cambiante cielo. Contemplaba los diáfanos colores como si se tratara de hogueras, fuegos dignos de admirar, pero imposibles de poseer. Esas ideas le daban confort y lo alejaban por un rato de las pesadillas.
 
- 
-
 Sus escapadas crepusculares trajeron un inesperado encuentro. Llevaba unos días esperando que creciera una flor de loto, la había visto en una de sus primeras visitas a su esquina, pero esta se escondió y parecía no querer mostrarse. En paralelo crecía un jardín de lirios blancos, flores que por su similitud al loto lo emocionaban, pero también lo frustraban. Igual, se entretenía pues estudiaba cada uno de los capullos, asegurándose de que no se tratara de su anhelada flor. Tanta era su dedicación a la labor que por unos días no se percató de una distante melodía que le hacía compañía. Cuando iba a dormir y las pesadillas parecían asomarse, su inconsciente recreaba la melodía y lo devolvía a los atardeceres. En las mañanas se despertaba descansado y los sueños de ocasos y armonías se esfumaban.
-
- 
 
 Notó la música el día en que esta se ausentó. Supo que algo no iba bien mientras cumplía sus labores. Pero un murmullo involuntario le recordó la canción. Ya no pudo pensar en otra cosa. Entonces cambió su obsesión del loto por la de encontrar el origen de la lejana melodía. No pasaron dos días cuando la escuchó de nuevo. En esta ocasión abandonó la labor y se dejó guiar. Nadó hipnotizado descifrando su naturaleza: era un graznar, diferente, pero definitivamente de un pato. Era suave y delicado y también persistente y acertado. Tenía que ser de su bandada. Era alguien a quien le venía el canto de forma natural pero que también le había dedicado esfuerzo. No recordaba a nadie así, pero lo sentía familiar. Entonces la vio.
 
- 
-
 Se trataba de una patita que siempre estuvo allí. Hacía parte de su generación y desde pequeña participó de la admiración colectiva que se compartía hacia él. Era tímida y más allá de unos grandes ojos que parecían observar por primera vez todo, no sobresalía. Sentía que había nacido en el lugar equivocado, carecía del histrionismo de sus coetáneos y aunque en sus soledades volaba y cantaba, nunca se atrevía a hacerlo en público. Prefería observar a los otros patos y castigarse en silencio por no tener la valentía para elevar su voz y su vuelo. Le angustiaba el día en que tuviera que volar con la bandada, pensaba que quedaría en evidencia si no podía seguir la cadencia de la formación en V. La harían de lado y habría de volar sola. Y, como es sabido, una pata no está hecha para volar sola. Entonces, se decantó por una vida discreta y lejana. Si alguien la hubiera percibido la habría descrito como una pata sensible e introvertida, pero, ella no pensaba en estas categorías. Ella solo buscaba un lugar en donde pudiera cantar y, algún día, volar, sin que nadie la juzgara. Y lo había encontrado. Se trataba de una esquina del lago que se escondía detrás de una exagerada maleza. Curiosamente allá crecían flores como no las había visto antes y se lo atribuía a la pureza del lugar. Encontró paz en esta soledad y pudo liberar su voz, tranquila de que nadie la escuchara, o así lo pensaba. 
-
- 
 
 Entonces, el patito la reconoció y se vio extrañado de que la pequeña pata de ojos brincones —lo único que recordaba de ella— hubiera llegado hasta su esquina. Tardó un poco en entender que era ella la que cantaba, las dos ideas eran tan distantes que lo asumió como una simple casualidad. Pero cuando comprendió, el lugar se hizo más bello que nunca. La patita dejó de ser un incidente y se plantó en el centro de su paisaje para siempre. Inundado de emociones que nunca había sentido, el patito decidió reconocer su performance salpicando el agua que tenía a su alrededor, sin percatarse de que había arruinado la solemnidad del momento. La quietud del lugar se vio alterada, las plantas se zarandearon y el reflejo del sol generó destellos que intimidaron a la patita. Esta se asustó y cuando abrió los ojos y vio al patito, se sintió agobiada. Escapó tan pronto como pudo, volando de manera torpe, enredándose entre la maleza y sumando al alboroto. El patito no entendió nada y solo cuando las aguas se calmaron se enteró de que la flor de loto había crecido donde estaba ella.
 
- 
-
 La buscó desde entonces. Pero la patita se escabulló. Ya no volvió a la esquina y cada vez que se veían en otras partes del lago, ella se alejaba. Él no entendía qué había hecho mal, pero sabía que algo había cambiado: ya no encontró serenidad en su esquina, dejó de importarle si las plantas crecían o no y el naranja del cielo se transformó en un cobre ardiente que amenazaba con quemarlo si se atrevía a surcarlo. Las pesadillas volvieron y ya no pudo escapar a ellas. La patita por su parte terminó de lapidar su canto, se sintió vulnerada y, aunque no guardó rencor particularmente por el patito, encontró en su reacción la burla y el rechazo de su comunidad, nunca el reconocimiento y admiración que él quiso ofrecer. Se ocultó muy a pesar de sus llamativos ojos, que nunca aprendió a disimular.
-
- 
 
 Finalmente llegó el tiempo de migrar y uno a uno, los patos fueron elevando su vuelo. En cuestión de medio día todos partieron y todo cambió. El lago se hizo irreconocible, ahora era amplio y silencioso y auguraba un invierno inclemente. El patito se dio una última oportunidad. En la noche previa había soñado que su lesión solo era parte de una pesadilla. Se despertó delirando y decidió partir con los demás, convencido de que aún tenía ese vuelo espectacular por el que se destacó en su niñez. Los demás patos lo reconocieron y lo animaron; ninguno recordaba su lesión y para ellos era apenas natural su participación. Se perfiló entonces como el líder de una de las Vs y emprendió el vuelo. 
 
- 
-
 El viento golpeó su cara y en sus compañeros vio los rostros de admiración de otros tiempos. Se sintió aliviado e infló su pecho una vez más. Pero antes de que terminara de inhalar el aire, su ala dejó de responder. No tuvo tiempo para entender lo que sucedía cuando se encontró cayendo en una vertiginosa espiral hacia el lago. Intentó voltear la vista atrás, pero en ello chocó con el agua. Aleteó por salir a flote y luego de intensos segundos pudo sacar el pico y respirar. Miró rápido al cielo y vio en la distancia cómo se alejaba su vida. Sus pesadillas se habían hecho realidad.
-
- 
 
 El fuerte viento hizo que el corto tiempo de vuelo se tradujera en una larga distancia. Además, las vueltas de su caída y el golpe lo dejaron completamente desubicado. Se encontró solo en un lugar que no conocía y no pudo más que llorar. Cuando llegó el atardecer, los anhelados colores le indicaron la dirección por la que debía volver a su hogar. Pasó la noche entera nadando a contracorriente. Una vez allí, cansado y con frío, quiso refugiarse en su esquina, pero su energía se agotó a pocos metros de la maleza. Cerró los ojos y se dejó arrastrar a donde fuera que lo llevara el agua.
 
- 
-
 La mañana anterior, la patita había observado cómo su familia entusiasmada se preparaba para la partida. Un presuroso reflejo la llevó a escapar sigilosa. La esquina donde solía cantar la atrajo. Una vez allí comprendió que era el único lugar en donde se sabría sola —o casi sola— y que había ido porque no sabía qué más hacer. Reconoció que siempre lo supo, que ella nunca iba a volar con los demás patos. Así pues, se dedicó a observar en completo silencio a toda su comunidad partir. Cuando vio el último punto negro desvanecerse en el horizonte, volvió la vista al lugar en el que se encontraba. Lo vio abandonado, no era como lo recordaba: las pocas flores que sobrevivían yacían derrotadas en la orilla, la maleza había crecido y se devoraba la mayoría del espacio y las vistas se entorpecían con hojas secas que aún no se desprendían de sus troncos. Se dedicó a embellecer el lugar. No quiso darse tiempo para pensar y dedicó tarde y noche a su tarea. 
-
- 
 
 En la mañana observó el resultado y se sintió orgullosa. Respiró y pensó que había encontrado una paz que hacía tiempo no sentía. Su meditación la interrumpió un pequeño golpe al otro lado de la maleza. Se alarmó y miró con sigilo. Era el patito. Asustada, se refugió, pero luego de unos segundos de no sentir movimiento, lo observó otra vez. Este yacía quieto. Se acercó lentamente y por un segundo quedó fría pensando que se encontraba sin vida. Para su tranquilidad pronto comprobó que solo dormía. Lo vio cansado y triste. No pudo sino sentir compasión, y aunque dudó unos segundos, decidió arrastrarlo hacia su esquina. Lo acomodó, y una vez vio que se estaría quieto, decidió también dormir.
 
- 
-
 Los primeros días fueron difíciles. Para sorpresa de los dos, lo que más extrañaron fue la compañía de los otros. Si bien ambos quisieron escapar de los demás en su momento, el hecho de tener algo de qué huir les daba un propósito. Ahora era el estado natural; la falta de alternativa les causaba angustia. El patito encontró un pequeño alivio cuando supo que la patita lo acompañaba en su abandono, pero la idea de que nunca iba a despertar de su pesadilla le carcomía tanto, que ni su belleza le era suficiente. No ayudaba tampoco que ella hubiera clausurado su canto, se había hecho muda y no parecía querer cambiar.
-
- 
 
 Por su parte, la patita se acostumbró a su presencia y llegó a sentir preocupación por él. No entendía cómo ese pato que había nacido con estrella había terminado en tal precariedad. No sabía ni de su ala ni de su estrepitosa caída. Aprendieron a hacerse compañía. La patita lo animaba arreglando el jardín de flores y el patito la acompañaba en silencio cuando en las tardes observaban el cielo del atardecer. Tardaron en notarlo, pero la temperatura los obligaba a acercarse. Un día se encontraron refugiados el uno en el otro por el temor que supuso una muerte a causa del frío. Concluyeron que estaban destinados a estar juntos. Se amaron.
 
- 
-
 El clima se hacía hostil, las flores no sobrevivían por más de dos horas, el atardecer era temprano y corto y la noche larga y gélida. Apenas alcanzaban sus abrazos para soportarla. Hacía unas semanas se hubieran dejado morir, pero, al verse y reconocerse en el otro sabían que habrían de hacer algo para sobrevivir. Ninguno de los dos sería capaz de presenciar la muerte del otro, así fuera por unos instantes. Algún día en las pocas horas de sol, el patito decidió enseñarle su manera de volar. A pesar de la vergüenza, a estas alturas a ella le confiaba todo. Ella estuvo tentada a anudar cabos para comprender el devenir del patito, pero supo que era más importante entender qué hacer con esa información. No tuvo una respuesta, pero consoló al patito antes de volver al refugio.
-
- 
 
 Fue la noche más fría y el patito pensó que no lo lograrían. Ella se sentía un poco más vital que él y al ver que su compañero se rendía, recordó el brote de energía que su canto le produjo alguna vez. Ahora ella tuvo que superar sus temores y se animó a cantar la antigua melodía. La nostalgia hizo llorar al patito que sintió la tibieza de las lágrimas devolviéndole algo de calor. Se acurrucó con más ahínco. Notó sorprendido cómo las alas de la patita lo refugiaban con fuerza. Ella cantaba cada vez más alto y parecía engrandecerse. Él sentía menos frío y encontraba en ella la protección de la que fue desahuciado el fatídico día en que se rompió el ala. Tuvo sueños maravillosos y despertó resuelto.
 
- 
-
 Antes de que ella despertara, organizó la pequeña esquina. Sabía que sería la última vez que la verían y encontraba digno despedirse del refugio que los había unido, que los había salvado y que ahora los despediría. Organizó los lirios y los lotos, le dio su espacio a la maleza, puerta de su hogar, y con el poco follaje que quedaba, organizó un marco para mirar un último atardecer. Ella supo lo que pasaba y lo observó en silencio. Llegada la tarde, se juntaron a ver el cielo. Esta vez lo estudiaban juntos, ambos sabían que para esa hora al siguiente día, estarían allá. Le rindieron tributo al crepúsculo con un largo y maduro silencio y se dejaron arrullar por el cansancio. Compartieron un sueño en el que transitaron el camino que los llevó hasta donde estaban, se sintieron uno en el otro. Se reconciliaron consigo mismos y aceptaron que en sus vidas nunca existió otro rumbo.
-
- 
 
 A la mañana siguiente la nieve había congelado el agua, las flores no alcanzaron a perder sus pétalos y quedaron pausadas en el tiempo. La maleza se desanimó por primera vez y agachó su extenso ramaje permitiendo que los helados vientos se apoderaran del lugar, aniquilando así toda posibilidad de vida avícola. El sol hizo su corto recorrido y en los breves segundos en que ofreció su naranja ocaso, se vio a lo lejos una pata majestuosa que extendía sus alas prolíferas y surcaba el cielo como nadie lo había hecho antes. Se alcanzó a escuchar una melodía, una que la pata cantó con su voz infinita y que desde entonces fue suficiente para guiar a cualquier pato que la supiera escuchar.
