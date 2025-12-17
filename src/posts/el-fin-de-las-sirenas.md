@@ -6,7 +6,7 @@ featured: false
 author:
   - Juan Torregrosa
 date: 2025-12-17T17:06:00.000+01:00
-cover: /static/img/sirenas.jpg.png
+cover: /static/img/sirenas-2.png
 ---
 *“Les contaste un cuento sabiéndolo contar y creyeron que tu alma andaba mal”*
 
