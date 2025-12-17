@@ -1,9 +1,7 @@
 ---
 title: El Fin de las Sirenas
 description: " La mayoría de las criaturas marítimas no sabemos que cuando se
-  cruza la oscilante frontera del agua, hay más vida. Ni siquiera nos enteramos
-  de que nos rodea un elemento líquido que nos permite flotar, nadar, respirar
-  y, -total- existir."
+  cruza la oscilante frontera del agua, hay más vida."
 featured: false
 author:
   - Juan Torregrosa
