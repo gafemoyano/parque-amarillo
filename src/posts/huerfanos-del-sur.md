@@ -6,7 +6,7 @@ featured: true
 author:
   - Jorge Jaramillo
 date: 2025-03-13T12:22:00.000Z
-cover: /static/img/dall·e-2025-03-13-12.26.55-a-highly-stylized-illustration-of-a-very-elderly-european-woman-but-not-extremely-frail-with-deep-wrinkles-and-aged-features-sitting-in-a-wheelchai.webp
+cover: /static/img/gemini_generated_image_zaiqxizaiqxizaiq.png
 ---
 Por estos días se comenta mucho sobre lo alocado de las decisiones que está tomando el gobierno estadounidense. Sobre cómo este gobierno está desequilibrando las relaciones geopolíticas y desmantelando el multilateralismo, como lo conocíamos. Y sobre cómo esta conducta americana no tiene precedentes y parece salirse de todos los esquemas. Y aunque en estos artículos busco alejarme de la coyuntura, abstraerme del "momento presente" —por usar un término que gusta mucho a mi generación—, en este caso, la verdad es que resulta muy difícil no aludir de manera específica al extravagante despegue del segundo mandato de Donald Trump en la Casa Blanca. 
 
