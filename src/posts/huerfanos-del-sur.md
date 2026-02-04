@@ -4,7 +4,7 @@ description: Los huérfanos del desarrollo, o llanamente, los países pobres,
   fueron pateados lejos, muy lejos, por el Tío Sam.
 featured: false
 author:
-  - Jorge Jaramillo
+  - Anónimo
 date: 2025-03-13T12:22:00.000Z
 cover: /static/img/gemini_generated_image_zaiqxizaiqxizaiq.png
 ---
