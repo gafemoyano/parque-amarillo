@@ -1,7 +1,7 @@
 ---
 title: De Colombia y el comino
-description: Nadie ha preguntado por el comino en Colombia, un escurridizo
-  polvillo que ayuda a entender a una sociedad con problemas de identidad.
+description: Nadie ha preguntado por el comino en Colombia, un modesto polvillo
+  que ayuda a entender a una sociedad con líos de identidad
 featured: false
 author:
   - Jorge Jaramillo
