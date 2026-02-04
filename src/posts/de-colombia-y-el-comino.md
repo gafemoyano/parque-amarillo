@@ -1,9 +1,8 @@
 ---
 title: De Colombia y el comino
-description: Nadie me preguntó por el uso del comino en la cocina colombiana así
-  que me ocupé de analizarlo. Este modesto y escurridizo polvillo acaba
-  convirtiéndose en un vehículo para entender mejor una gastronomía, y por
-  extensión una sociedad entera con problemas de identidad.
+description: Nadie ha preguntado por el comino en Colombia, un escurridizo
+  polvillo que deja entender mejor una gastronomía, pero aún más, una sociedad
+  entera con problemas de identidad.
 featured: false
 author:
   - Jorge Jaramillo
