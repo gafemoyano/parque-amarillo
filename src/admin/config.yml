@@ -90,10 +90,12 @@ collections:
     folder: "src/authors"
     identifier_field: name
     create: true
+    slug: "{{slug}}"
     editor:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "hidden" }
       - { label: "Name", name: "name", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string", pattern: ['^[a-z0-9-]+$', "Solo letras minúsculas, números y guiones"] }
       - { label: "Bio", name: "body", widget: "markdown" }
-      - {label: "Avatar", name: "avatar", widget: "image"}
+      - { label: "Avatar", name: "avatar", widget: "image" }
