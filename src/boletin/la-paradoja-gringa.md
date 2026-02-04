@@ -6,7 +6,7 @@ Estados Unidos ha sabido exportar su cultura por siglos. Y variará por regiones
 
 ## Huérfanos del Sur
 
-Por: [Jorge Jaramillo](https://parqueamarillo.com/autores/jorge-jaramillo/)​
+Por: Anónimo
 
 Por estos días se comenta mucho sobre lo alocado de las decisiones que está tomando el gobierno estadounidense. Sobre cómo este gobierno está desequilibrando las relaciones geopolíticas y desmantelando el multilateralismo, como lo conocíamos. (...) la verdad es que resulta muy difícil no aludir de manera específica al extravagante despegue del segundo mandato de Donald Trump en la Casa Blanca.
 
