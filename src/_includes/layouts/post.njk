@@ -1,6 +1,11 @@
 {% extends "layouts/default.njk" %}
 
 {% block head %}
+  {% if canonicalUrl %}
+    <link rel="canonical" href="{{ canonicalUrl }}">
+  {% else %}
+    <link rel="canonical" href="{{settings.url}}{{page.url}}">
+  {% endif %}
   <meta name="description" content="{{ description }}">
   <meta name="keywords" content="{{ keywords }}">
   <meta name="twitter:card" content="summary">

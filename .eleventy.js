@@ -152,6 +152,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/robots.txt");
   eleventyConfig.addPassthroughCopy("./src/static/css/fonts.css");
   eleventyConfig.addPassthroughCopy("./src/static/img");
+  eleventyConfig.addPassthroughCopy("./src/static/videos");
   eleventyConfig.addPassthroughCopy("./src/static/fonts");
 
   // Copy favicon to route of /_site

@@ -15,8 +15,8 @@
 {% block content %}
   {% set featuredPost = collections.featuredPosts | first %}
 
+  {% if featuredPost %}
   <section class="mt-16 flex flex-col md:flex-row-reverse w-full gap-8  place-content-center container">
-    {% if featuredPost %}
       <div class="w-full mx-auto">
         <img height="650" eleventy:widths="auto" loading="lazy" parsing="async" class="w-fit object-cover object-center mx-auto aspect-[5/6] max-h-[650px] lg:max-h-[80dvh]" src="{{ featuredPost.data.cover }}" alt="Cover text">
       </div>
@@ -30,19 +30,8 @@
           </p>
         </div>
       </div>
-    {% else %}
-      <div class="w-full mx-auto">
-        <img class="w-fit object-cover object-center mx-auto aspect-[5/6] max-h-[650px] lg:max-h-[90vh]" src="{{ cover }}" alt="El parque amerindio">
-      </div>
-      <div class="w-full flex items-center justify-center">
-        <div class="max-w-md mx-auto">
-          <h1 class="text-center text-3xl md:text-4xl xl:text-5xl font-black text-neutral-900 font-headline">
-          Parque Amarillo
-        </h1>
-        </div>
-      </div>
-    {% endif %}
   </section>
+  {% endif %}
 
   <div class="container mt-32">
     <h2 class="text-xl font-headline font-bold lg:text-2xl">Artíc<span class="text-yellow-500">u</span>los r<span class="text-yellow-500">e</span>cientes</h2>
