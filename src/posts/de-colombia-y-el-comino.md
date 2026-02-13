@@ -1,7 +1,7 @@
 ---
 title: De Colombia y el comino
 description: Nadie se pregunta por el comino en Colombia, un polvillo modesto
-  que deja entrever un pueblo con líos de identidad.
+  que deja entrever a un pueblo con líos de identidad.
 featured: false
 author:
   - Jorge Jaramillo
