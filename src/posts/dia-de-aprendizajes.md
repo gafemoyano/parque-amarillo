@@ -1,22 +1,25 @@
 ---
-title: Dia de aprendizajes
-description: "Crónicas del sur. Hay días que terminan mejor de lo que empiezan."
+cover_alt: Un despertar como cualquiera
+title: Día de aprendizajes
+description: Crónicas del sur. Hay días que terminan mejor de lo que empiezan.
 featured: false
 author:
   - Felipe Moyano
 date: 2026-01-16
 cover: /static/img/buen-lugar-para-bararse.jpg
-cover_alt: Un despertar como cualquiera
-canonicalUrl: https://gafemoyano.com/es/posts/dia-de-aprendizajes/
 tags:
   - memorias-del-sur
   - viajes
   - patagonia
+canonicalUrl: https://gafemoyano.com/es/posts/dia-de-aprendizajes/
 ---
-
 Me desperté en una cama doble. Eso ya era un cambio drástico de las noches en carpa que habíamos pasado las últimas semanas en la Patagonia Chilena. Acabábamos de cruzar la frontera de regreso a Argentina hacía un par de días y aún estábamos acostumbrándonos a los lujos que nos permitía el cambio favorable del dólar. El día anterior había sido largo debido a un pinchazo en una ruta poco transitada y una buena noche de descanso era más que bienvenida.
 
-Al salir de la casa me encontré a Sergio Andrés trabajando en su moto con su dedicación habitual. Le pregunté si quería algo de desayuno, sabiendo cuál sería la respuesta de antemano. —No, yo estoy bien —contestó—, así que salí a explorar los alrededores del lugar con la esperanza de encontrar algún pan, torta o queso. Sin éxito, volví resignado y, pasando por la entrada, dije: —tocó desayunar mate.
+Al salir de la casa me encontré a Sergio Andrés trabajando en su moto con su dedicación habitual. Le pregunté si quería algo de desayuno, sabiendo cuál sería la respuesta de antemano. 
+
+—No, yo estoy bien —contestó—, así que salí a explorar los alrededores del lugar con la esperanza de encontrar algún pan, torta o queso. Sin éxito, volví resignado y, pasando por la entrada, dije: 
+
+—Tocó desayunar mate.
 
 Una hora después estábamos listos para arrancar, maletas montadas en las motos, cadena lubricada (la de él, yo estaba tomando mate), y ruta planificada. Iríamos en dirección norte con intención de llegar a Bariloche, sin afán, pero con ansias de volver. Sentíamos en el cuerpo el cansancio de los últimos días largos de ruta y necesitábamos descanso, quietud y caras familiares. Sin embargo, Sergio propuso un desvío en Trevelín para recorrer un tramo del parque nacional Los Alerces, hoy sería nuestra última oportunidad de visitarlo.
 
@@ -37,7 +40,7 @@ Afortunadamente, no tardó demasiado en manifestarse la famosa solidaridad argen
 El nuevo plan era andar la moto, lentamente, hasta un lugar que ellos conocían de carga de ganado para poder subir la moto a la altura del camión y así llevarla remolcada hasta el siguiente pueblo donde pudiéramos buscar si un mecánico nos atendía, pues normalmente descansan los domingos.
 
 <figure class="my-8">
-  <video controls class="h-[50vh] w-full rounded-lg shadow-md">
+  <video controls class="h-\[50vh] w-full rounded-lg shadow-md">
     <source src="/static/videos/el-camion.mp4" type="video/mp4">
   </video>
   <figcaption>El camión gaucho</figcaption>
@@ -65,7 +68,7 @@ Encogí los hombros y respondí:
 
 Las tres francesas eran un grupo de chicas que habíamos conocido unas semanas atrás cuando estábamos bajando en dirección sur. Sergio, siempre observador y extrovertido, las había notado en varios puntos a lo largo de la ruta viajando a dedo. Una tarde de un día entero de ruta, decidimos parar en un pueblo, del que no recuerdo el nombre, pero que fácilmente podría ser el escenario de una película de apocalípsis zombie ambientado en la Patagonia. Allí fue que, nuevamente, encontramos a las tres chicas, caminando con sus mochilas por la mitad de la calle. Sergio no pensó dos veces en abordarlas, mientras yo lo esperaba una cuadra más adelante. Después de unas cuantas palabras, caminaron a donde yo me encontraba. Sergio me señaló con el dedo: —Él habla francés —dijo— y, mirándome a mí, agregó: —dígales que busquemos hotel juntos.
 
-Aquellas francesas que conocimos en el pueblo más recóndito del sur, estaban en Bariloche, en una cabaña invitándonos a pasar la noche allá. Sin pensarlo dos veces y con renovadas energías pusimos en nuestra mente la misión de llegar a Bariloche ese mismo día. Naturalmente, esto implica comenzar con el ritual de alistar alistar las motos.  
+Aquellas francesas que conocimos en el pueblo más recóndito del sur, estaban en Bariloche, en una cabaña invitándonos a pasar la noche allá. Sin pensarlo dos veces y con renovadas energías pusimos en nuestra mente la misión de llegar a Bariloche ese mismo día. Naturalmente, esto implica comenzar con el ritual de alistar alistar las motos.\
 En el parqueadero de la estación vimos un grupo de moteros; venían en sentido opuesto —o sea, en dirección sur— y acababan de hacer el mismo tramo que nos preparábamos a recorrer. Se veían cansados; para ellos ya era el final del día, que es lo normal hacia las 4 p. m., cuando empieza a escasear la luz. Les preguntamos cómo estaba la ruta, a lo que respondieron que había estado durísima, que había mucho viento y que los había obligado a parar en un tramo de la carretera a esperar que pasara.
 —¿Para dónde van ustedes? —nos preguntaron.
 —Para Bariloche —dijimos. Nos miraron con cara de locos.
