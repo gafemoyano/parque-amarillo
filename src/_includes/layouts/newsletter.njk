@@ -19,11 +19,13 @@ layout: layouts/default
           {% if loop.first %}
           <div class="md:col-span-2 flex flex-col sm:flex-row items-center gap-6 border border-neutral-200 rounded-lg p-6">
             {% if rec.image %}
-            <img
-              src="{{ rec.image }}"
-              alt="{{ rec.title }}"
-              class="w-[200px] h-[200px] object-cover rounded-lg shrink-0"
-            />
+            <div class="w-[200px] h-[200px] shrink-0">
+              <img
+                src="{{ rec.image }}"
+                alt="{{ rec.title }}"
+                class="w-full h-full object-cover rounded-full"
+              />
+            </div>
             {% endif %}
             <div>
               <h3 class="font-headline text-xl font-bold">{{ rec.title }}</h3>
@@ -33,11 +35,13 @@ layout: layouts/default
           {% else %}
           <div class="border border-neutral-200 rounded-lg overflow-hidden">
             {% if rec.image %}
-            <img
-              src="{{ rec.image }}"
-              alt="{{ rec.title }}"
-              class="w-full h-[275px] object-cover"
-            />
+            <div class="aspect-[2/3] overflow-hidden">
+              <img
+                src="{{ rec.image }}"
+                alt="{{ rec.title }}"
+                class="w-full h-full object-cover"
+              />
+            </div>
             {% endif %}
             <div class="p-6">
               <h3 class="font-headline text-xl font-bold">{{ rec.title }}</h3>
