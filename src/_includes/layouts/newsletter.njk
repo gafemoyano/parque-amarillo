@@ -23,6 +23,9 @@ layout: layouts/default
               <img
                 src="{{ rec.image }}"
                 alt="{{ rec.title }}"
+                sizes="200px"
+                width="200"
+                height="200"
                 class="w-full h-full object-cover rounded-full"
               />
             </div>
@@ -39,6 +42,7 @@ layout: layouts/default
               <img
                 src="{{ rec.image }}"
                 alt="{{ rec.title }}"
+                sizes="(min-width: 768px) 280px, 100vw"
                 class="w-full h-full object-cover"
               />
             </div>
