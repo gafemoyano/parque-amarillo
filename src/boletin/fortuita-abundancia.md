@@ -1,5 +1,6 @@
 ---
 title: Fortuita abundancia
+description: "Una turbulenta combinación de entradas: desde una crónica de moto por las planicies argentinas, hasta un melancólico relato oceánico en los ojos de un cangrejo. En la mitad, una divagación por la historia del comino en Colombia."
 date: 2026-02-16T09:00:00.000Z
 recommendations:
   - title: La Pambelé

@@ -1,8 +1,20 @@
 ---
 title: La paradoja gringa
+description: "Aunque nos fastidie, nos avergüence o nos haga daño, lo gringo parece resultarnos imprescindible. En esta edición reflexionamos sobre esta contradicción."
 date: 2025-03-25T14:30:00.000Z
+recommendations:
+  - title: "Doechii: Tiny Desk Concert"
+    image: /static/img/ykqx9x9dwyainsjgjiegm.png
+    description: "Doechii figuró en los Grammys con un show salido de control, llevándose además el galardón al mejor álbum de rap. Pero eso es poco luego de ver su Tiny Desk. Pillen las verdades en rima que dispara esta rapera de otro tiempo, que flotan en un impecable fondo de jazz tejido por mujeres impresionantes."
+  - title: Armand
+    image: /static/img/ftnmatgg2kmbwnc1edbcsd.png
+    description: 'Renate Reinsve -famosa por "The Worst Person in the World- lleva a otro nivel su actuación. Hay un escena en particular que es pasada: una carcajada que te deja sin palabras.'
+  - title: The Girl With the Needle
+    image: /static/img/3e3n8lma2qnmcsvnhxrl9u.png
+    description: "En la hedionda postguerra una mujer de clase trabajadora pasa por el más aberrante patriarcado e injusticia social, deviniendo en una historia que parece horror. Basada en hechos reales que uno no entiende."
 ---
-Estados Unidos ha sabido exportar su cultura por siglos. Y variará por regiones, unas que se habrán influenciado más que otras. Su estética, su cine, su Día de Acción de Gracias, su ego. También sus armas y tanques y hamburguesas, su complejo de “salvador blanco”, y sus pamplinas. Al final, Estados Unidos ha materializado una **paradoja**: aunque nos fastidie, nos avergüence o nos haga daño, lo gringo parece resultarnos imprescindible. En esta edición reflexionamos sobre esta contradicción.
+
+Estados Unidos ha sabido exportar su cultura por siglos. Y variará por regiones, unas que se habrán influenciado más que otras. Su estética, su cine, su Día de Acción de Gracias, su ego. También sus armas y tanques y hamburguesas, su complejo de "salvador blanco", y sus pamplinas. Al final, Estados Unidos ha materializado una **paradoja**: aunque nos fastidie, nos avergüence o nos haga daño, lo gringo parece resultarnos imprescindible. En esta edición reflexionamos sobre esta contradicción.
 
 ## Huérfanos del Sur
 
@@ -21,23 +33,3 @@ No deja de ser irónico que Basel Adra, codirector de No Other Land, recibiera u
 Por: [Felipe Moyano](https://parqueamarillo.com/autores/felipe-moyano/)​
 
 Siempre me ha parecido fastidiosa la adulación, quizás porque estudié en colegio católico. No solo en cuanto a figuras religiosas, en realidad nunca se me dieron del todo bien situaciones en las que tuviera que rendir tributo a la autoridad. (...) El problema es que muchas, en el fondo, no lo eran, lo que me causó (a mi y en especial a mis padres) más penas que alegrías en aquella época escolar.
-
-### Recomendaciones
-
-## Doechii: Tiny Desk Concert
-
-![Doechii](/static/img/ykqx9x9dwyainsjgjiegm.png "Doecchi cantando en un tiny desk concert.")
-
-Doechii figuró en los Grammys con un show salido de control, llevándose además el galardón al mejor álbum de rap. Pero eso es poco luego de ver su Tiny Desk. Pillen las verdades en rima que dispara esta rapera de otro tiempo, que flotan en un impecable fondo de jazz tejido por mujeres impresionantes.
-
-## Armand
-
-![Armand cover](/static/img/ftnmatgg2kmbwnc1edbcsd.png "Armand cover")
-
-Renate Reinsve -famosa por "The Worst Person in the World- lleva a otro nivel su actuación. Hay un escena en particular que es pasada: una carcajada que te deja sin palabras.
-
-## The Girl With the Needle
-
-![The Girl With the Needle cover](/static/img/3e3n8lma2qnmcsvnhxrl9u.png "The Girl With the Needle Cover")
-
-En la hedionda postguerra una mujer de clase trabajadora pasa por el más aberrante patriarcado e injusticia social, deviniendo en una historia que parece horror. Basada en hechos reales que uno no entiende.

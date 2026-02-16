@@ -7,6 +7,22 @@
     <title>{{ title }} | Parque amarillo</title>
     {% block head %}
       {{ head }}
+      {% if description %}
+        <link rel="canonical" href="{{settings.url}}{{page.url}}">
+        <meta name="description" content="{{ description }}">
+        <meta property="og:title" content="{{ title }}">
+        <meta property="og:description" content="{{ description }}">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="{{ title }}">
+        <meta name="twitter:description" content="{{ description }}">
+        {% if ogImage %}
+          <meta property="og:image" content="{{settings.url}}{{ ogImage }}">
+          <meta name="twitter:image" content="{{settings.url}}{{ ogImage }}">
+        {% else %}
+          <meta property="og:image" content="{{settings.url}}/static/img/el-parque-amerindio.jpg">
+          <meta name="twitter:image" content="{{settings.url}}/static/img/el-parque-amerindio.jpg">
+        {% endif %}
+      {% endif %}
     {% endblock %}
     <meta property="og:url" content="{{settings.url}}{{page.url}}">
     <meta property="og:locale" content="es_CO"/>

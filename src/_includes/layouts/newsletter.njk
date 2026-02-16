@@ -1,61 +1,93 @@
----
-layout: layouts/default
----
+{% extends "layouts/default.njk" %}
 
-<div class="container mt-16">
-  <div class="w-full mx-auto max-w-[65ch] mt-16">
-    <h1 class="font-bold text-4xl font-headline md:text-5xl text-neutral-900">{{title}}</h1>
+{% block head %}
+  <link rel="canonical" href="{{settings.url}}{{page.url}}">
 
-    <hr class="w-16  my-8 border-b-2 border-accent"/>
-    <article class="font-body my-16 prose-base lg:prose-lg  prose-a:font-semibold prose-a:underline">
-      {{ content | safe }}
-    </article>
+  {% if description %}
+    {% set metaDescription = description %}
+  {% else %}
+    {% set metaDescription = settings.description %}
+  {% endif %}
 
-    {% if recommendations %}
-    <section class="my-16">
-      <h2 class="font-headline font-bold text-2xl md:text-3xl text-neutral-900 mb-8">Recomendaciones</h2>
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-        {% for rec in recommendations %}
-          {% if loop.first %}
-          <div class="md:col-span-2 flex flex-col sm:flex-row items-center gap-6 border border-neutral-200 rounded-lg p-6">
-            {% if rec.image %}
-            <div class="w-[200px] h-[200px] shrink-0">
-              <img
-                src="{{ rec.image }}"
-                alt="{{ rec.title }}"
-                sizes="200px"
-                width="200"
-                height="200"
-                class="w-full h-full object-cover rounded-full"
-              />
+  <meta name="description" content="{{ metaDescription }}">
+
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ metaDescription }}">
+  <meta property="og:type" content="article">
+  <meta property="article:published_time" content="{{date | htmlDateString}}">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ title }}">
+  <meta name="twitter:description" content="{{ metaDescription }}">
+
+  {% if cover %}
+    {% set ogImagePath = cover %}
+  {% elif recommendations and recommendations[0] and recommendations[0].image %}
+    {% set ogImagePath = recommendations[0].image %}
+  {% else %}
+    {% set ogImagePath = "/static/img/el-parque-amerindio.jpg" %}
+  {% endif %}
+
+  {% set ogImageSrc = './src' + ogImagePath %}
+  {% ogImage ogImageSrc, title, settings.url %}
+{% endblock %}
+
+{% block content %}
+  <div class="container mt-16">
+    <div class="w-full mx-auto max-w-[65ch] mt-16">
+      <h1 class="font-bold text-4xl font-headline md:text-5xl text-neutral-900">{{title}}</h1>
+
+      <hr class="w-16  my-8 border-b-2 border-accent"/>
+      <article class="font-body my-16 prose-base lg:prose-lg  prose-a:font-semibold prose-a:underline">
+        {{ content | safe }}
+      </article>
+
+      {% if recommendations %}
+      <section class="my-16">
+        <h2 class="font-headline font-bold text-2xl md:text-3xl text-neutral-900 mb-8">Recomendaciones</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+          {% for rec in recommendations %}
+            {% if loop.first %}
+            <div class="md:col-span-2 flex flex-col sm:flex-row items-center gap-6 border border-neutral-200 rounded-lg p-6">
+              {% if rec.image %}
+              <div class="w-[200px] h-[200px] shrink-0">
+                <img
+                  src="{{ rec.image }}"
+                  alt="{{ rec.title }}"
+                  sizes="200px"
+                  width="200"
+                  height="200"
+                  class="w-full h-full object-cover rounded-full"
+                />
+              </div>
+              {% endif %}
+              <div>
+                <h3 class="font-headline text-xl font-bold">{{ rec.title }}</h3>
+                <p class="font-body text-base mt-2 text-neutral-600">{{ rec.description | safe }}</p>
+              </div>
+            </div>
+            {% else %}
+            <div class="border border-neutral-200 rounded-lg overflow-hidden">
+              {% if rec.image %}
+              <div class="aspect-[2/3] overflow-hidden">
+                <img
+                  src="{{ rec.image }}"
+                  alt="{{ rec.title }}"
+                  sizes="(min-width: 768px) 280px, 100vw"
+                  class="w-full h-full object-cover"
+                />
+              </div>
+              {% endif %}
+              <div class="p-6">
+                <h3 class="font-headline text-xl font-bold">{{ rec.title }}</h3>
+                <p class="font-body text-base mt-2 text-neutral-600">{{ rec.description | safe }}</p>
+              </div>
             </div>
             {% endif %}
-            <div>
-              <h3 class="font-headline text-xl font-bold">{{ rec.title }}</h3>
-              <p class="font-body text-base mt-2 text-neutral-600">{{ rec.description | safe }}</p>
-            </div>
-          </div>
-          {% else %}
-          <div class="border border-neutral-200 rounded-lg overflow-hidden">
-            {% if rec.image %}
-            <div class="aspect-[2/3] overflow-hidden">
-              <img
-                src="{{ rec.image }}"
-                alt="{{ rec.title }}"
-                sizes="(min-width: 768px) 280px, 100vw"
-                class="w-full h-full object-cover"
-              />
-            </div>
-            {% endif %}
-            <div class="p-6">
-              <h3 class="font-headline text-xl font-bold">{{ rec.title }}</h3>
-              <p class="font-body text-base mt-2 text-neutral-600">{{ rec.description | safe }}</p>
-            </div>
-          </div>
-          {% endif %}
-        {% endfor %}
-      </div>
-    </section>
-    {% endif %}
+          {% endfor %}
+        </div>
+      </section>
+      {% endif %}
+    </div>
   </div>
-</div>
+{% endblock %}
