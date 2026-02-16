@@ -14,8 +14,6 @@ recommendations:
     description: "¿Se puede hacer cine que denuncie los crímenes del actual régimen en Irán? No. Jafar Panahi igual lo hace. Y, gana la Palma de Oro."
 ---
 
-Parque Amarillo ha sido concebido como un boletín y blog para compartir artículos de opinión sobre una cosa y otra, en el campo de la actualidad, cultura y sociedad. Pero en un espíritu de abundancia y aleatoriedad, se nos han filtrado toda clase de locuras extras.
-
 En esta ocasión, nos sonroja compartirles una turbulenta combinación de entradas que, sin ninguna clase de coordinación, han visto la luz. Desde una crónica de moto por las planicies argentinas, hasta un melancólico relato oceánico en los ojos de un cangrejo. En la mitad, una divagación por la historia del comino en Colombia.
 
 **Artículos**
