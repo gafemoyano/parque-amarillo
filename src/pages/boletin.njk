@@ -14,7 +14,7 @@ layout: layouts/default
   <hr class="w-16  my-8 border-b-2 border-accent"/>
 </div>
 <div class="container pb-16">
-  {% for newsletter in collections.boletin %}
+  {% for newsletter in collections.boletin | reverse %}
     <a href="{{newsletter.url}}" class="w-full mx-auto flex justify-between items-center py-16 gap-8 border-b-2">
       <h2 class="text-3xl text-center lg:text-4xl font-bold">
         {{ newsletter.data.title }}
