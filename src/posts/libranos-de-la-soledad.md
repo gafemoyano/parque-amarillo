@@ -1,5 +1,5 @@
 ---
-title: Somos uno
+title: Éramos uno
 description: No necesitamos más terapia para curar la soledad, necesitamos verla
   con sentimiento caribe, o abandonar el individualismo abismal
 featured: false
