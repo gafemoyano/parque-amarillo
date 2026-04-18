@@ -1,16 +1,16 @@
 ---
-title: Líbranos de la soledad
+title: Somos uno
 description: No necesitamos más terapia para curar la soledad, necesitamos verla
   con sentimiento caribe, o abandonar el individualismo abismal
 featured: false
 author:
   - Jorge Jaramillo
 date: 2026-04-17T19:11:00.000+02:00
-cover: /static/img/gemini_generated_image_iev3lfiev3lfiev3.png
+cover: /static/img/gemini_generated_image_ynsflxynsflxynsf.png
 ---
 En una entrevista reciente, el periodista y comunicador Santiago Rivas ofreció un punto de vista que llamó mi atención: el problema colectivo de la salud mental no se combate tanto con terapias individualizadas, sino más bien con *comunidad*. La comunidad, la experiencia comunitaria, la red, el tejido social —o como se le quiera llamar— podría ser no solo un antídoto a los males interiores del individuo (esos demonios y tristezas y obsesiones y adicciones que le carcomen), sino también a los males que le trascienden: los interpersonales, sociales, existenciales y hasta planetarios.
 
-Con esto, la idea no es quitarle mérito a la psicoterapia. Yo mismo he sido acompañado en buena parte de mi adultez por psicólogas y psicólogos, incluso en tiempos en que no se hablaba tanto de ello y era causa de vergüenza. Cuando tenía veinte años —hace quince—, a más de un amigo macho en proceso aún verde de deconstrucción, le parecía una tontería que yo fuera adonde una terapeuta a llorar y hablarle de mis sentimientos. Cuáles sentimientos, pensarían, en ese tiempo en el que escasamente sabíamos nombrar cuatro o cinco emociones, si mucho. De hecho, visto en perspectiva, ir llenando ese vacío es uno de los resultados valiosos de la terapia en muchos de los que hemos hecho el trabajo de asistir: autoconocimiento, reconocimiento de emociones y herramientas para gestionarlas. Eso, sin contar el simple efecto de desahogo y contención que muchas veces se necesita en momentos de dificultad o confusión; una escucha paciente y activa.
+Con esto, la idea no es quitarle mérito a la psicoterapia. Yo mismo he sido acompañado en buena parte de mi adultez por psicólogas y psicólogos, incluso en tiempos en que no se hablaba tanto de ello y era causa de vergüenza. Cuando tenía veinte años —hace quince—, a más de un amigo macho en proceso aún verde de deconstrucción, le parecía una tontería que yo fuera adonde una terapeuta a llorar y hablarle de mis sentimientos. Cuáles sentimientos, pensarían, en ese tiempo en el que escasamente sabíamos nombrar cuatro o cinco emociones. De hecho, visto en perspectiva, ir llenando ese vacío es uno de los resultados valiosos de la terapia en muchos de los que hemos hecho el trabajo de asistir: autoconocimiento, reconocimiento de emociones y herramientas para gestionarlas. Eso, sin contar el simple efecto de desahogo y contención que muchas veces se necesita en momentos de dificultad o confusión; una escucha paciente y activa.
 
 Pero hoy en día, cuando enfrentamos lo que parece una crisis generalizada de salud mental en adolescentes y jóvenes, pero también en los menos jóvenes y los viejos, el tratamiento terapéutico figura como la solución más popular, de la que más se habla, la que más se recomienda, la solución del voz a voz. Yo mismo, hace unos años, fui predicador de los beneficios inasibles de la psicoterapia entre la banda de amigos hombres que crecieron conmigo. Hoy la psicoterapia es una solución amplia e incansablemente promovida en redes sociales, a través de terapeutas influencers y podcasts en apariencia desinteresados, aunque interesados siempre —como todo— en el incentivo mercantil. Mismas redes sociales que, valga decir, han sabido propagar irreparable y primeramente, la insatisfacción interior de tanta gente. Sobre todo de la gente más joven, que aterriza sin mucho cuidado en aquel brillante y lúdico ambiente, inocente e ignorante de toda la maraña cibernética que busca dominarle.
 
