@@ -1,11 +1,12 @@
 ---
 title: Dios es contracultura
-description: ""
+description: Nuestros nuevos ídolos son chicos encantadores de TikTok cuyo
+  lifestyle combina el gym con la oración.
 featured: false
 author:
   - Jorge Jaramillo
 date: 2026-06-18T12:07:00.000+02:00
-cover: /static/img/gemini_generated_image_w375vxw375vxw375.png
+cover: /static/img/untitled-design.png
 ---
 Hoy se habla de una especie de *revival* del catolicismo. Un revivir, o un regresar hacia sus valores. Hacia sus formas, hacia su control, o solo hacia su estética. No se sabe bien. Porque vemos cosas como el último disco de Rosalía, potentísimo y de gran revuelo, aunque efímero como es todo ahora, el cual pareció resultar de un acercamiento de la artista a la sacralidad religiosa. A los valores de la fe. Especialmente a esa que ella tendría más próxima, la de su terruño, su España, la eterna católica. De esto ya se ha hablado bastante, pues el álbum coincidió también con el estreno de “Los domingos”, película que desenvuelve la vida de una adolescente española que siente el llamado a ser una monja de claustro. Las expresiones artísticas hablando de espiritualidad.
 
