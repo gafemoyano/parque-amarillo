@@ -1,8 +1,7 @@
 ---
 title: Uno con la moto
-description: Una vez más el muchacho estudiante, futuro líder del país, explora
-  el monte con su Yamaha, disfrazado de Travis Pastrana, seguido de sus amigos
-  del club
+description: El muchacho estudiante, futuro líder del país, explora el monte con
+  su Yamaha, disfrazado de Travis Pastrana, seguido de sus amigos del club
 featured: false
 author:
   - Jorge Jaramillo
