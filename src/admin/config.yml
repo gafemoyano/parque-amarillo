@@ -46,6 +46,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Square featured recommendation image", name: "square_recommendation_image", widget: "boolean", default: false, required: false }
       - label: "Recommendations"
         name: "recommendations"
         widget: "list"

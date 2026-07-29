@@ -1,6 +1,7 @@
 ---
 title: Masculinidades
 date: 2026-07-29T10:15:00.000-05:00
+square_recommendation_image: true
 recommendations:
   - title: "Recomendaciones: cine"
     image: /static/img/screenshot-2026-07-29-at-11.10.52.png
@@ -11,7 +12,8 @@ recommendations:
   - title: "Recomendaciones: música"
     image: /static/img/ke-personajes-mojada.jpg
     url: https://www.youtube.com/watch?v=A_9hIL4okUw&list=RDA_9hIL4okUw&start_radio=1
-    description: Nostálgico cover del mítico tema de Vilma Palma en versión del Cono
+    description:
+      Nostálgico cover del mítico tema de Vilma Palma en versión del Cono
       Sur. Siempre es un deleite el viaje continental que ha recorrido la
       cumbia.
   - image: /static/img/milo-j-tiny-desk.jpg
@@ -21,6 +23,7 @@ recommendations:
       murga uruguaya. Puro poder latinoamericano.
     title: "Recomendaciones: música"
 ---
+
 Hoy les compartimos un par de lecturas cortas y contundentes sobre temas que nos causaron curiosidad en las últimas semanas. Hablamos del renacer del catolicismo en la generación Z y del paisaje sonoro que nos dejan las motos. Sin saberlo, como siempre, estábamos hablando de tóxicas masculinidades. Además, algunas recomendaciones de cine y música.
 
 **Artículos**

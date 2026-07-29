@@ -58,7 +58,7 @@
                   sizes="200px"
                   width="200"
                   height="200"
-                  class="w-full h-full object-cover rounded-full"
+                  class="w-full h-full {% if square_recommendation_image %}object-contain rounded-lg{% else %}object-cover rounded-full{% endif %}"
                 />
               </div>
               {% endif %}
