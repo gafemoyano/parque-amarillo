@@ -46,7 +46,6 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Square featured recommendation image", name: "square_recommendation_image", widget: "boolean", default: false, required: false }
       - label: "Recommendations"
         name: "recommendations"
         widget: "list"
@@ -55,6 +54,15 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Image", name: "image", widget: "image", choose_url: false }
+          - label: "Image style"
+            name: "image_style"
+            widget: "select"
+            default: "portrait"
+            options:
+              - { label: "Round", value: "round" }
+              - { label: "Square — contain", value: "square" }
+              - { label: "Portrait — cover", value: "portrait" }
+          - { label: "Full width", name: "full_width", widget: "boolean", default: false, required: false }
           - { label: "Link", name: "url", widget: "string", required: false }
           - { label: "Description", name: "description", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }

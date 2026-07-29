@@ -5,12 +5,18 @@ date: 2026-02-16T09:00:00.000Z
 recommendations:
   - title: La Pambelé
     image: /static/img/la-pambele.jpg
+    image_style: round
+    full_width: true
     description: 'Qué vértigo cómo esta banda de salsa bogotana ha sabido escalar, sin aviso alguno, al primer lugar de nuestro corazón. Si no la conocen, <a href="https://www.youtube.com/watch?v=1PJFr36vlwY" class="font-semibold underline">vayan a escucharla</a> ahora mismo.'
   - title: Gaslight (1944)
     image: /static/img/gaslight-1944.jpg
+    image_style: portrait
+    full_width: false
     description: "El término contemporáneo <em>gaslighting</em> proviene de este angustiante drama de 1944 que empuja hacia las fronteras de la locura."
   - title: It Was Just an Accident (2025)
     image: /static/img/it-was-just-an-accident.jpg
+    image_style: portrait
+    full_width: false
     description: "¿Se puede hacer cine que denuncie los crímenes del actual régimen en Irán? No. Jafar Panahi igual lo hace. Y, gana la Palma de Oro."
 ---
 

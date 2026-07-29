@@ -5,12 +5,18 @@ date: 2025-03-05T09:21:00.000Z
 recommendations:
   - title: Playa Negra
     image: /static/img/eb747g6phvkhbqu2w593wf.png
+    image_style: round
+    full_width: true
     description: 'Ojo al disco Playa Negra de Gabriel Ríos. El experimento de este puertorriqueño combina elementos globales con esa pulsión latina y de aire sonero, que parece colársele irremediablemente. El resultado es el encuentro frontal con lo que él mismo llama el "Caribe Gótico".'
   - title: American Honey
     image: /static/img/3zsjxs2xlwdrck6zbsl6yr.jpeg
+    image_style: portrait
+    full_width: false
     description: "Una película de carretera del Estados Unidos más crudo, pelados vendiendo revistas para sobrevivir."
   - title: Flow
     image: /static/img/2jx7luoxkdxyxjxskafbfe.jpeg
+    image_style: portrait
+    full_width: false
     description: "Muy bella interpretación de un mundo post humanidad. Lo mejor: animales que se comportan como animales."
 ---
 

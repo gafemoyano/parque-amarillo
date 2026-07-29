@@ -47,18 +47,17 @@
         <h2 class="font-headline font-bold text-2xl md:text-3xl text-neutral-900 mb-8">Recomendaciones</h2>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
           {% for rec in recommendations %}
-            {% if loop.first %}
+            {% if rec.full_width or (rec.full_width is not defined and loop.first) %}
             <div class="md:col-span-2 flex flex-col sm:flex-row items-center gap-6 border border-neutral-200 rounded-lg p-6">
               {% if rec.image %}
-              <div class="w-[200px] h-[200px] shrink-0">
+              <div class="{% if rec.image_style == 'portrait' %}w-[200px] aspect-[2/3]{% else %}w-[200px] h-[200px]{% endif %} shrink-0 overflow-hidden {% if rec.image_style == 'round' or not rec.image_style %}rounded-full{% else %}rounded-lg bg-neutral-50{% endif %}">
                 <img
                   src="{{ rec.image }}"
                   alt="{{ rec.title }}"
                   eleventy:optional="keep"
                   sizes="200px"
                   width="200"
-                  height="200"
-                  class="w-full h-full {% if square_recommendation_image %}object-contain rounded-lg{% else %}object-cover rounded-full{% endif %}"
+                  class="w-full h-full {% if rec.image_style == 'square' %}object-contain{% else %}object-cover{% endif %}"
                 />
               </div>
               {% endif %}
@@ -76,13 +75,13 @@
             {% else %}
             <div class="border border-neutral-200 rounded-lg overflow-hidden">
               {% if rec.image %}
-              <div class="aspect-[2/3] overflow-hidden">
+              <div class="overflow-hidden {% if rec.image_style == 'round' %}aspect-square p-6{% elif rec.image_style == 'square' %}aspect-square bg-neutral-50{% else %}aspect-[2/3]{% endif %}">
                 <img
                   src="{{ rec.image }}"
                   alt="{{ rec.title }}"
                   eleventy:optional="keep"
                   sizes="(min-width: 768px) 280px, 100vw"
-                  class="w-full h-full object-cover"
+                  class="w-full h-full {% if rec.image_style == 'square' %}object-contain{% else %}object-cover{% endif %} {% if rec.image_style == 'round' %}rounded-full{% endif %}"
                 />
               </div>
               {% endif %}
