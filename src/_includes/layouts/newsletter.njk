@@ -54,6 +54,7 @@
                 <img
                   src="{{ rec.image }}"
                   alt="{{ rec.title }}"
+                  eleventy:optional="keep"
                   sizes="200px"
                   width="200"
                   height="200"
@@ -62,7 +63,13 @@
               </div>
               {% endif %}
               <div>
-                <h3 class="font-headline text-xl font-bold">{{ rec.title }}</h3>
+                <h3 class="font-headline text-xl font-bold">
+                  {% if rec.url %}
+                    <a href="{{ rec.url }}" class="underline">{{ rec.title }}</a>
+                  {% else %}
+                    {{ rec.title }}
+                  {% endif %}
+                </h3>
                 <p class="font-body text-base mt-2 text-neutral-600">{{ rec.description | safe }}</p>
               </div>
             </div>
@@ -73,13 +80,20 @@
                 <img
                   src="{{ rec.image }}"
                   alt="{{ rec.title }}"
+                  eleventy:optional="keep"
                   sizes="(min-width: 768px) 280px, 100vw"
                   class="w-full h-full object-cover"
                 />
               </div>
               {% endif %}
               <div class="p-6">
-                <h3 class="font-headline text-xl font-bold">{{ rec.title }}</h3>
+                <h3 class="font-headline text-xl font-bold">
+                  {% if rec.url %}
+                    <a href="{{ rec.url }}" class="underline">{{ rec.title }}</a>
+                  {% else %}
+                    {{ rec.title }}
+                  {% endif %}
+                </h3>
                 <p class="font-body text-base mt-2 text-neutral-600">{{ rec.description | safe }}</p>
               </div>
             </div>

@@ -53,7 +53,8 @@ collections:
         summary: "{{fields.title}}"
         fields:
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "Image", name: "image", widget: "image" }
+          - { label: "Image", name: "image", widget: "image", choose_url: false }
+          - { label: "Link", name: "url", widget: "string", required: false }
           - { label: "Description", name: "description", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }
   - label: "Settings"

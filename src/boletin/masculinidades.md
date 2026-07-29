@@ -9,11 +9,13 @@ recommendations:
       sus ruidosos motores, de la mano de la clásica Drive, con no otro que la
       figura del man appeal por excelencia, Ryan Gosling?
   - title: "Recomendaciones: música"
-    image: https://www.youtube.com/watch?v=A_9hIL4okUw&list=RDA_9hIL4okUw&start_radio=1
+    image: /static/img/ke-personajes-mojada.jpg
+    url: https://www.youtube.com/watch?v=A_9hIL4okUw&list=RDA_9hIL4okUw&start_radio=1
     description: Nostálgico cover del mítico tema de Vilma Palma en versión del Cono
       Sur. Siempre es un deleite el viaje continental que ha recorrido la
       cumbia.
-  - image: https://www.youtube.com/watch?v=p7YpVl35pac&list=RDp7YpVl35pac&start_radio=1
+  - image: /static/img/milo-j-tiny-desk.jpg
+    url: https://www.youtube.com/watch?v=p7YpVl35pac&list=RDp7YpVl35pac&start_radio=1
     description: Aunque esta sesión ya supera las 15 millones de vistas, todavía
       merece más. Sabrosa amalgama del sonido urbano con el universo andino y la
       murga uruguaya. Puro poder latinoamericano.
