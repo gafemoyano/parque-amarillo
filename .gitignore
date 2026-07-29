@@ -8,3 +8,4 @@ _site/
 *git/
 package-lock.json
 .env
+.claude/
