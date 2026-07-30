@@ -4,7 +4,7 @@ date: 2026-07-29T10:15:00.000-05:00
 recommendations:
   - title: "Recomendaciones: cine"
     image: /static/img/screenshot-2026-07-29-at-11.10.52.png
-    image_style: portrait
+    image_style: square
     full_width: true
     description: En línea con los machotes y sus motores, ¿cómo no recomendar el
       debut como director de Alexander Skarsgård, que va de chicos musculosos y
