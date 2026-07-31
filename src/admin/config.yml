@@ -54,15 +54,27 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Image", name: "image", widget: "image", choose_url: false }
-          - label: "Image style"
-            name: "image_style"
+          - label: "Component layout"
+            name: "layout"
             widget: "select"
             default: "portrait"
             options:
-              - { label: "Round", value: "round" }
-              - { label: "Square — contain", value: "square" }
-              - { label: "Portrait — cover", value: "portrait" }
-          - { label: "Full width", name: "full_width", widget: "boolean", default: false, required: false }
+              - { label: "Card — horizontal", value: "card" }
+              - { label: "Portrait — vertical", value: "portrait" }
+          - label: "Image style"
+            name: "image_style"
+            widget: "select"
+            default: "square"
+            options:
+              - { label: "Round — circle", value: "round" }
+              - { label: "Square", value: "square" }
+          - label: "Image fit"
+            name: "image_fit"
+            widget: "select"
+            default: "cover"
+            options:
+              - { label: "Contain — show full image", value: "contain" }
+              - { label: "Cover — fill and crop", value: "cover" }
           - { label: "Link", name: "url", widget: "string", required: false }
           - { label: "Description", name: "description", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }

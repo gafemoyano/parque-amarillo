@@ -6,17 +6,20 @@ recommendations:
   - title: "Doechii: Tiny Desk Concert"
     image: /static/img/ykqx9x9dwyainsjgjiegm.png
     image_style: round
-    full_width: true
+    image_fit: cover
+    layout: card
     description: "Doechii figuró en los Grammys con un show salido de control, llevándose además el galardón al mejor álbum de rap. Pero eso es poco luego de ver su Tiny Desk. Pillen las verdades en rima que dispara esta rapera de otro tiempo, que flotan en un impecable fondo de jazz tejido por mujeres impresionantes."
   - title: Armand
     image: /static/img/ftnmatgg2kmbwnc1edbcsd.png
-    image_style: portrait
-    full_width: false
+    image_style: square
+    image_fit: cover
+    layout: portrait
     description: 'Renate Reinsve -famosa por "The Worst Person in the World- lleva a otro nivel su actuación. Hay un escena en particular que es pasada: una carcajada que te deja sin palabras.'
   - title: The Girl With the Needle
     image: /static/img/3e3n8lma2qnmcsvnhxrl9u.png
-    image_style: portrait
-    full_width: false
+    image_style: square
+    image_fit: cover
+    layout: portrait
     description: "En la hedionda postguerra una mujer de clase trabajadora pasa por el más aberrante patriarcado e injusticia social, deviniendo en una historia que parece horror. Basada en hechos reales que uno no entiende."
 ---
 
