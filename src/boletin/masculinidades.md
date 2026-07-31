@@ -17,8 +17,7 @@ recommendations:
     image_fit: cover
     layout: portrait
     url: https://www.youtube.com/watch?v=A_9hIL4okUw&list=RDA_9hIL4okUw&start_radio=1
-    description:
-      Nostálgico cover del mítico tema de Vilma Palma en versión del Cono
+    description: Nostálgico cover del mítico tema de Vilma Palma en versión del Cono
       Sur. Siempre es un deleite el viaje continental que ha recorrido la
       cumbia.
   - image: /static/img/milo-j-tiny-desk.jpg
