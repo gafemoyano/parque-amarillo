@@ -6,7 +6,7 @@ featured: false
 author:
   - Juan Torregrosa
 date: 2026-09-06T14:46:00.000+02:00
-cover: /static/img/01_obsession.jpg
+cover: /static/img/02_obsession.png
 ---
 Ha pasado más de un año desde la última reseña de cine que publiqué. El medio que usaba terminó por frustrarme. Fui terco en creer que en dicha plataforma encontraría disposición para ese contenido. Sé que tengo seguidores interesados en recomendaciones de cine -aunque escaso, el feedback siempre fue positivo-. No obstante, siempre supe que eran pocos los lectores. Yo mismo soy perezoso cuando encuentro un párrafo en el scrolling lateral. Instagram no está diseñado para la lectura.
 
