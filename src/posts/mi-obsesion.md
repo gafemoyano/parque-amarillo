@@ -6,11 +6,11 @@ featured: false
 author:
   - Juan Torregrosa
 date: 2026-09-06T14:46:00.000+02:00
-cover: /static/img/01_obsession.jpg
+cover: /static/img/02_obsession.png
 ---
 Ha pasado más de un año desde la última reseña de cine que publiqué. El medio que usaba terminó por frustrarme. Fui terco en creer que en dicha plataforma encontraría disposición para ese contenido. Sé que tengo seguidores interesados en recomendaciones de cine -aunque escaso, el feedback siempre fue positivo-. No obstante, siempre supe que eran pocos los lectores. Yo mismo soy perezoso cuando encuentro un párrafo en el scrolling lateral. Instagram no está diseñado para la lectura.
 
-Ahora bien, en mi afán de controvertir la anterior hipótesis me volví un artesano del formato *historia* de Instagram. Buscando hacer llamativos mis comentarios sobre cine, hice mil experimentos: colores llamativos, títulos en neón, clips cortos de alguna escena, llegué a poner *stickers* con mi cara (*facepalm*). Por supuesto, en esa empresa comprometí mi forma de escribir -redacción, lenguaje, ritmo y así-. Pero, encontré una voz. La atesoré y me divertí puliéndola. Me dejé conducir por ella y llegué a encontrar una osadía que no sabía que habitaba en mí. Se volvió en un hábito casi sanador.
+Ahora bien, en mi afán de controvertir la anterior hipótesis me volví un artesano del formato *historia* de Instagram. Buscando hacer llamativos mis comentarios sobre cine, hice mil experimentos: colores vivos, títulos en neón, clips cortos de alguna escena, llegué a poner *stickers* con mi cara (*facepalm*). Por supuesto, en esa empresa comprometí mi forma de escribir -redacción, lenguaje, ritmo y así-. Pero, encontré una voz. La atesoré y me divertí puliéndola. Me dejé conducir por ella y llegué a encontrar una osadía que no sabía que habitaba en mí. Se volvió en un hábito casi sanador.
 
 Lamentablemente, el formato fue despiadado y el poco alcance que generaban mis publicaciones me condujo a un inesquivable síndrome del impostor. No alcanzó el cariño y decidí abandonar por completo y volver a la comodidad del anonimato.
 
@@ -19,8 +19,6 @@ Algo de liberación hubo en dejar de escribir sobre las películas, no lo voy a 
 Tengo un carácter obsesivo -lo descubrimos con mi terapeuta- y no es algo necesariamente malo -también con el terapeuta-. Quienes me conocen saben lo pesado que me puedo poner cuando algo me gusta, el más fan: leo sobre eso, veo documentales, compro camisetas y vinilos y moldeo mi personalidad para que encaje con eso que me gustó. De ahí mi insistencia en escribir sobre cine: necesito expresar y compartir eso que me fascinó. También de ahí mi frustración cuando no encuentro público que lo quiera recibir. En una película de Benigni el protagonista cuenta que se hizo poeta cuando siendo niño vio morir una mariposa y al contarle a su madre, sus palabras no alcanzaron para hacerla sentir la tristeza que él sintió.
 
 Pues bueno, esta película de terror volvió a abrir ese grifo de exhortación y he decidido volver a las tablas, o a las teclas más bien. Esta vez aterrizo en un lugar diseñado para la lectura, como lo es Parque Amarillo, y abandono la rimbombancia que me permitían las historias de Instagram. Sin embargo, rescato esa voz que extraño y que tanto me divierte. Los invito, pues, a que me acompañen en esta nueva fase de reseñas de cine y espero que la lectura de ellas los entretenga tanto como a mí me entretiene escribirlas. Por hoy, y después de este ladrillazo, sólo escribo una, la de la película de volver, cuyo título no puede ser más acertado: Obsession.
-
-
 
 **Obsession (2026)**
 
